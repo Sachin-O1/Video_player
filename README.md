@@ -1,2 +1,2 @@
 # Video_player
-Android based video player
+Android based video player application
